@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(180deg, #f53a4f, #d90429);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.container4{
+display:flex
+}
+
+.imagen1{
+margin-left: 80px;
+}
